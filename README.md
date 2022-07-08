@@ -173,5 +173,4 @@ On branch new
 - Commit message 必須清楚描述此次的 commit
 
 ## 心得區
-
-This is good!
+It's really helpful. 
